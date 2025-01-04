@@ -1,0 +1,121 @@
+Customer ID,Name,Email,Booking ID,Start Date,End Date,From,Destination,Transportation Type,Transportation Cost (USD),Payment Method,Booking Status,Total Amount (USD)
+C1206,Kelly Downs,njenkins@gmail.com,B2362,15-12-2024,19-12-2024,London,New York,Flight,840.7,PayPal,Cancelled,1029.36
+C4975,Molly Huang,michaelhowell@jones.com,B1572,04-12-2024,06-12-2024,London,Los Angeles,Bus,1309.31,Credit Card,Confirmed,1644.61
+C9619,Lori Freeman,chris27@gonzalez.com,B7271,01-12-2024,06-12-2024,New York,Agra,Flight,1431.75,UPI,Confirmed,1854.09
+C8367,Laura Conway,adamwallace@hotmail.com,B7399,12-12-2024,16-12-2024,New York,Paris,Flight,940.35,Credit Card,Pending,1048.14
+C7155,Travis Lam,jordangill@burgess.com,B4628,20-12-2024,23-12-2024,Tokyo,London,Bus,460.24,Cash,Confirmed,693.72
+C2962,Dustin Anderson,victoriasmith@gmail.com,B5315,16-12-2024,19-12-2024,London,Goa,Bus,443.64,PayPal,Cancelled,880.14
+C6495,Miranda Hughes,bergrobert@hotmail.com,B3140,22-12-2024,29-12-2024,Mumbai,Goa,Train,811.51,Credit Card,Pending,896.74
+C3713,Tina Hutchinson,meltonmichael@smith.com,B1337,03-12-2024,08-12-2024,Bangkok,Los Angeles,Flight,314.71,PayPal,Pending,630.42
+C3464,Eric Turner,hectorbecker@hood-stewart.info,B6234,09-12-2024,11-12-2024,Sydney,Bangkok,Bus,513.05,Cash,Pending,817.25
+C3725,Charlotte Thomas,kimberlyweaver@ramirez-rodgers.com,B3870,05-12-2024,07-12-2024,New York,Los Angeles,Train,1017.11,UPI,Cancelled,1254.68
+C8265,John Wu,kmartinez@yahoo.com,B1621,19-12-2024,26-12-2024,Delhi,Paris,Flight,308.07,PayPal,Confirmed,421.79
+C8707,John Cross,theresa50@buck-tate.net,B9544,03-12-2024,08-12-2024,Sydney,Bangkok,Bus,571.02,Debit Card,Pending,907.68
+C3415,Lisa Hamilton,jacobweeks@flowers-rios.com,B7051,08-12-2024,13-12-2024,Sydney,Paris,Bus,673.56,Credit Card,Cancelled,1140.01
+C5118,Jeffrey Conway,allenkevin@hotmail.com,B8646,04-12-2024,10-12-2024,New York,Goa,Train,1004.01,Debit Card,Pending,1117.63
+C7935,Mark Silva,victor47@gmail.com,B6406,19-12-2024,26-12-2024,Sydney,Paris,Train,1464.27,Debit Card,Cancelled,1818.95
+C5162,Jacqueline Parsons,steven73@murray-scott.net,B3278,17-12-2024,20-12-2024,Tokyo,Agra,Flight,220.29,Cash,Pending,406.95
+C6268,David Johnson,carolyncampbell@yahoo.com,B1978,27-12-2024,29-12-2024,New York,Paris,Bus,1341.84,Credit Card,Pending,1682.79
+C9561,Tammy Molina,nmiller@gmail.com,B7581,17-12-2024,20-12-2024,Bangkok,Bangkok,Bus,1083.75,PayPal,Cancelled,1143.52
+C7924,Chelsey Cook,hernandezcurtis@miller.org,B8091,14-12-2024,21-12-2024,Tokyo,London,Bus,1311.09,Debit Card,Cancelled,1487.75
+C8107,Aaron Bishop,sphillips@hotmail.com,B8221,04-12-2024,09-12-2024,New York,Bangkok,Bus,337.87,Cash,Confirmed,724.99
+C6404,William Valencia,jenna89@yahoo.com,B2525,23-12-2024,25-12-2024,Dubai,Los Angeles,Train,578.99,Cash,Pending,1077.11
+C7600,Kristin Nguyen,ydavis@kennedy-shepherd.com,B9956,07-12-2024,09-12-2024,Mumbai,London,Bus,474.41,Cash,Cancelled,806.15
+C4625,Teresa Lucas,paulacarter@martinez.biz,B7704,16-12-2024,20-12-2024,Sydney,London,Flight,1499.1,Debit Card,Pending,1615.43
+C8542,Jeremy Baker,daniel04@yahoo.com,B2089,12-12-2024,16-12-2024,Sydney,New York,Flight,532.51,PayPal,Cancelled,619.84
+C9832,Andrew Young,shelbymcdonald@white.com,B5459,14-12-2024,21-12-2024,Dubai,New York,Bus,341.48,UPI,Confirmed,799.24
+C6550,Shannon Baker PhD,amber85@richardson.com,B5786,22-12-2024,28-12-2024,Sydney,Paris,Bus,666.5,UPI,Pending,761.38
+C3379,Jim Avila,ttaylor@gmail.com,B1295,15-12-2024,17-12-2024,Bangkok,Agra,Train,1150.16,Credit Card,Pending,1343.95
+C6890,Dr. Jane Hayden MD,amberreyes@brown.com,B9841,27-12-2024,02-01-2025,Mumbai,London,Train,1045.15,UPI,Confirmed,1234.54
+C2451,Angela Brown,silvalaura@sullivan.com,B1035,05-12-2024,12-12-2024,Delhi,New York,Bus,1189.83,Credit Card,Cancelled,1315.84
+C7841,Angela Rodriguez,alberthobbs@ryan.com,B2172,24-12-2024,26-12-2024,Mumbai,Bangkok,Flight,1487.37,Debit Card,Cancelled,1681.43
+C4529,Kelly White,spencer24@durham.com,B2170,18-12-2024,23-12-2024,London,Los Angeles,Bus,689.71,Debit Card,Confirmed,1069.16
+C3967,Andrew Brennan,jasontorres@gallagher.net,B4417,02-12-2024,05-12-2024,Sydney,Bangkok,Bus,881.57,PayPal,Confirmed,1335.9
+C8319,Gerald Delgado,choidaniel@archer.biz,B3293,22-12-2024,24-12-2024,London,New York,Train,754.32,Credit Card,Confirmed,881.19
+C2490,Todd Torres,arroyobrianna@rodriguez.org,B1339,19-12-2024,23-12-2024,Bangkok,Bangkok,Flight,327.06,UPI,Confirmed,501.52
+C2143,Gina Thompson,ocraig@green.com,B5071,25-12-2024,28-12-2024,Dubai,Dubai,Bus,934.0,UPI,Confirmed,1003.86
+C9898,Mark Lewis,cwarren@gmail.com,B2212,24-12-2024,28-12-2024,Bangkok,Paris,Train,567.22,Cash,Confirmed,930.85
+C1117,Ashley Wilson,henry09@myers.com,B7625,26-12-2024,30-12-2024,New York,Paris,Flight,1136.02,UPI,Pending,1433.89
+C4979,Stacy Martin,kyle98@nelson.com,B9575,05-12-2024,12-12-2024,Tokyo,Bangkok,Train,688.18,Debit Card,Pending,899.31
+C6133,Natalie Cook,poncealicia@mills-collins.info,B1064,12-12-2024,18-12-2024,Tokyo,Dubai,Flight,513.43,UPI,Pending,606.43
+C6154,Jennifer Todd,twalker@meza.net,B1530,07-12-2024,10-12-2024,Delhi,Paris,Flight,1223.3,Credit Card,Confirmed,1364.48
+C1890,Garrett Peterson,harrisondavid@hotmail.com,B6316,10-12-2024,16-12-2024,New York,Los Angeles,Train,710.36,UPI,Cancelled,1068.39
+C1387,Yesenia Nichols,davilaandrew@wilson.net,B2612,02-12-2024,09-12-2024,London,Bangkok,Train,281.94,Cash,Confirmed,404.22
+C8994,Richard Gentry,ericcrosby@walls.com,B2491,10-12-2024,16-12-2024,Delhi,Goa,Train,386.27,Credit Card,Confirmed,560.41
+C9164,Cynthia Allen,michaelpearson@smith.com,B4233,05-12-2024,07-12-2024,Bangkok,Dubai,Flight,598.78,UPI,Cancelled,706.44
+C5458,Donna Mcmillan,samuelcraig@gmail.com,B9740,12-12-2024,14-12-2024,London,Dubai,Bus,1163.81,Cash,Confirmed,1575.25
+C5282,Yvonne Lopez,qhutchinson@elliott.net,B7750,13-12-2024,17-12-2024,Bangkok,Paris,Flight,741.37,Cash,Pending,1164.42
+C8714,Sarah Williams,brendagilmore@harris.com,B7016,11-12-2024,14-12-2024,Tokyo,New York,Train,1004.99,UPI,Confirmed,1082.53
+C9342,Wendy Williams,shawkathleen@yahoo.com,B7146,23-12-2024,27-12-2024,Bangkok,Goa,Train,1211.2,Cash,Confirmed,1552.6
+C9301,Christina Hubbard,christymcneil@gmail.com,B5569,06-12-2024,11-12-2024,Tokyo,Paris,Flight,817.4,Credit Card,Confirmed,915.41
+C6775,Sarah Moreno DDS,kathleenrowe@miller.com,B8816,09-12-2024,14-12-2024,New York,Dubai,Flight,957.39,UPI,Confirmed,1423.43
+C9441,James Simmons,pboyer@barnes.com,B9989,07-12-2024,10-12-2024,Dubai,Agra,Bus,832.85,Cash,Pending,918.62
+C4346,Krista King,bfields@hotmail.com,B1245,22-12-2024,27-12-2024,Dubai,New York,Flight,552.79,Debit Card,Confirmed,939.15
+C6255,Jacqueline Andrews,vmoon@munoz.biz,B6037,05-12-2024,07-12-2024,Bangkok,Paris,Bus,1257.95,Credit Card,Confirmed,1365.63
+C6483,Megan Griffin,hayesandrew@schneider-wood.com,B5888,25-12-2024,29-12-2024,Tokyo,Paris,Train,1236.37,Cash,Cancelled,1591.14
+C8250,Lisa Mckinney,michael89@hale.net,B3350,25-12-2024,29-12-2024,Delhi,London,Flight,1228.73,Credit Card,Pending,1712.36
+C6640,Wayne Acosta Jr.,cynthia71@yahoo.com,B8696,14-12-2024,16-12-2024,Mumbai,Paris,Flight,579.31,PayPal,Confirmed,1011.34
+C9344,David Wilson,christina84@white.com,B1225,18-12-2024,24-12-2024,Tokyo,Los Angeles,Bus,790.61,UPI,Cancelled,1279.91
+C8053,Dennis White,cvillarreal@price-escobar.com,B3146,10-12-2024,16-12-2024,Tokyo,Los Angeles,Train,547.66,UPI,Pending,744.46
+C6231,Eric Griffin,smithdavid@sanchez.net,B5567,06-12-2024,10-12-2024,Mumbai,Paris,Flight,1256.59,Credit Card,Pending,1335.73
+C6220,Lisa Bailey,melissa28@gmail.com,B9252,21-12-2024,28-12-2024,Dubai,Paris,Flight,409.96,PayPal,Confirmed,605.62
+C4207,Laura Griffin,richard07@yahoo.com,B1058,15-12-2024,22-12-2024,New York,Los Angeles,Bus,572.6,PayPal,Pending,916.94
+C9319,Lauren Lewis,barbara07@english-morgan.org,B6689,03-12-2024,05-12-2024,New York,New York,Flight,1387.64,PayPal,Pending,1742.72
+C2975,Jodi Valdez,grantadam@hotmail.com,B1354,15-12-2024,22-12-2024,London,Agra,Train,1228.29,Debit Card,Cancelled,1408.35
+C2470,Danny Butler,garretttoni@hotmail.com,B4069,11-12-2024,17-12-2024,Delhi,Bangkok,Bus,681.95,UPI,Cancelled,811.95
+C1501,John Lloyd,stevenwright@hotmail.com,B7896,17-12-2024,24-12-2024,Sydney,Agra,Train,835.49,Debit Card,Pending,1220.92
+C9141,Robert Conway,riverabrenda@velez.com,B3052,13-12-2024,17-12-2024,Dubai,Bangkok,Bus,971.28,Debit Card,Pending,1411.22
+C5967,Scott Peterson,vlong@yahoo.com,B9702,16-12-2024,22-12-2024,New York,Dubai,Bus,1440.97,Cash,Pending,1828.35
+C4828,Katherine Burton,kimberlyjensen@cox.com,B3698,25-12-2024,01-01-2025,Mumbai,Dubai,Flight,763.17,Credit Card,Pending,1140.41
+C1145,Joseph Newton,michelle48@williams-miller.com,B2145,02-12-2024,04-12-2024,Delhi,New York,Train,1320.85,Cash,Pending,1407.96
+C2045,Alexander Young,lewisrandy@gmail.com,B2063,16-12-2024,20-12-2024,New York,Los Angeles,Flight,919.88,PayPal,Cancelled,1365.23
+C6332,Kim Henry,marissahull@alexander.com,B2734,18-12-2024,21-12-2024,Tokyo,New York,Train,755.24,PayPal,Pending,1173.22
+C8802,Maria Medina,denisefritz@yahoo.com,B7234,22-12-2024,29-12-2024,Delhi,Dubai,Flight,991.18,Credit Card,Confirmed,1115.07
+C9333,Dominique Hopkins,gregorynorman@skinner.com,B5607,22-12-2024,29-12-2024,Bangkok,Paris,Train,934.54,Credit Card,Cancelled,1148.6
+C6099,Luis Miller,danieljordan@bentley.biz,B4321,14-12-2024,20-12-2024,Dubai,Paris,Flight,1258.15,PayPal,Pending,1384.34
+C9579,Kathy Hanson,cdavis@gmail.com,B9705,23-12-2024,25-12-2024,London,Paris,Flight,1424.37,Debit Card,Pending,1632.25
+C6589,Johnny Mejia,allisondaniel@young-hines.com,B2248,24-12-2024,27-12-2024,Delhi,London,Bus,1223.84,PayPal,Confirmed,1454.97
+C1670,Patricia Fuller,heather31@hotmail.com,B7568,03-12-2024,05-12-2024,Mumbai,Bangkok,Flight,699.01,PayPal,Cancelled,1036.25
+C2592,Chad Gray,craig56@yahoo.com,B3029,23-12-2024,25-12-2024,Dubai,Agra,Bus,998.86,Cash,Confirmed,1156.65
+C4481,Dr. Nicole Ward,cody39@hotmail.com,B2531,17-12-2024,21-12-2024,Tokyo,New York,Bus,504.84,Cash,Cancelled,667.01
+C3790,Jacqueline Taylor,jennifershields@goodwin-silva.net,B4438,06-12-2024,10-12-2024,Delhi,Goa,Bus,950.11,UPI,Confirmed,1223.43
+C1556,Kathleen Ray,nwhite@stewart.biz,B8636,22-12-2024,29-12-2024,Mumbai,Los Angeles,Bus,1375.53,UPI,Cancelled,1614.46
+C2305,Bob White,qshort@malone.com,B6490,13-12-2024,19-12-2024,Sydney,Agra,Train,1261.49,Credit Card,Confirmed,1588.11
+C6206,Matthew Mills,stonedavid@yahoo.com,B6681,17-12-2024,24-12-2024,Sydney,Los Angeles,Train,1452.4,Debit Card,Confirmed,1568.76
+C3416,April Johnson,ryansmith@yahoo.com,B5272,14-12-2024,18-12-2024,Dubai,New York,Train,1388.88,Debit Card,Cancelled,1823.16
+C5991,Mr. Zachary Wilkins,nkim@mata-brown.info,B7157,20-12-2024,25-12-2024,Mumbai,Dubai,Train,701.0,PayPal,Confirmed,754.18
+C8402,Anthony Ramos,sandramichael@cooper-nolan.com,B1588,24-12-2024,28-12-2024,Sydney,Agra,Flight,860.76,UPI,Cancelled,1293.48
+C8701,Joshua Shaw,kaitlynalvarez@yahoo.com,B2631,06-12-2024,08-12-2024,New York,Dubai,Flight,491.33,PayPal,Cancelled,916.1
+C2010,Nathan Rogers,hwest@ramirez.com,B3112,01-12-2024,04-12-2024,Mumbai,Los Angeles,Bus,1455.47,UPI,Pending,1514.02
+C8898,Theresa Hernandez,danielvirginia@hotmail.com,B6367,12-12-2024,14-12-2024,Delhi,Bangkok,Bus,877.26,UPI,Pending,1160.43
+C4868,Cheyenne Garcia,petersoncatherine@hotmail.com,B9160,11-12-2024,13-12-2024,London,Dubai,Train,924.4,PayPal,Confirmed,1227.53
+C7091,Michael Rivera,kenneth43@hotmail.com,B7915,20-12-2024,27-12-2024,Mumbai,New York,Flight,230.25,PayPal,Pending,287.76
+C4152,Samantha Weeks,oallen@johnson.com,B6305,13-12-2024,17-12-2024,New York,Paris,Train,1313.44,PayPal,Pending,1581.65
+C2645,Daniel Bennett,andrewsmith@yahoo.com,B7188,26-12-2024,01-01-2025,New York,Bangkok,Bus,283.46,PayPal,Cancelled,399.74
+C6355,Kayla Medina,jennifer66@miller-mcdonald.net,B1787,14-12-2024,16-12-2024,London,Goa,Bus,767.55,PayPal,Pending,1236.83
+C5032,Jacob Brown,pamelagarcia@brown-clark.com,B9605,24-12-2024,31-12-2024,Sydney,Agra,Train,745.45,Cash,Confirmed,1180.15
+C7615,Deborah Casey,dgomez@rice.org,B5212,06-12-2024,10-12-2024,Sydney,Goa,Bus,822.81,PayPal,Cancelled,1248.3
+C4503,Julie Sanchez,gkerr@freeman.net,B8455,12-12-2024,18-12-2024,London,London,Bus,1425.87,UPI,Pending,1506.2
+C7901,Holly Coleman,brett99@hotmail.com,B7327,12-12-2024,17-12-2024,Tokyo,Dubai,Flight,527.18,Debit Card,Cancelled,785.08
+C4275,Nancy Young,xruiz@gmail.com,B9517,08-12-2024,11-12-2024,Sydney,Los Angeles,Bus,561.79,Credit Card,Pending,851.67
+C6162,Dr. Kelly Colon,qsmith@yahoo.com,B6398,11-12-2024,18-12-2024,Mumbai,London,Bus,338.76,UPI,Pending,764.49
+C3348,Ashley Schultz,imorales@collins.com,B5236,07-12-2024,11-12-2024,Delhi,New York,Bus,677.02,PayPal,Cancelled,750.18
+C1205,Lisa Miller,tyler97@edwards.com,B2257,14-12-2024,19-12-2024,New York,Paris,Train,1192.9,UPI,Cancelled,1277.74
+C6854,Alfred Zamora,adam95@king.info,B6318,26-12-2024,28-12-2024,London,Agra,Bus,330.19,Cash,Cancelled,451.19
+C1895,Jesse Walker,keithpatel@hotmail.com,B5331,19-12-2024,21-12-2024,Dubai,New York,Bus,580.69,UPI,Pending,829.42
+C3183,Kristina Young,gomezchristopher@jones.biz,B6345,17-12-2024,20-12-2024,London,Goa,Train,1043.54,Credit Card,Pending,1117.93
+C4025,Kristen Carlson,uacosta@robinson-roberts.com,B6289,22-12-2024,24-12-2024,Mumbai,Dubai,Bus,596.62,Cash,Cancelled,1081.34
+C6932,Erin Neal,edwardssamantha@gmail.com,B1635,13-12-2024,17-12-2024,Mumbai,Los Angeles,Train,719.39,Credit Card,Confirmed,810.59
+C3808,Lisa Moore,kristinekelly@yahoo.com,B7887,19-12-2024,25-12-2024,Dubai,Dubai,Train,458.86,PayPal,Confirmed,790.96
+C8652,William Obrien,melissa05@wiggins-armstrong.com,B6061,12-12-2024,19-12-2024,Sydney,London,Train,1464.57,UPI,Cancelled,1823.97
+C1300,Howard Lee,wmadden@gmail.com,B5607,15-12-2024,17-12-2024,Delhi,Goa,Train,669.99,Debit Card,Confirmed,991.27
+C6724,Diana Gregory DVM,sfrazier@arnold-greer.com,B7109,25-12-2024,28-12-2024,London,Agra,Bus,561.95,Credit Card,Cancelled,742.14
+C6156,Mark Pierce,rileylisa@kelley.com,B4454,03-12-2024,07-12-2024,Mumbai,Dubai,Train,636.74,Credit Card,Pending,818.86
+C6915,Robert Berry,donovanana@waters.org,B4345,06-12-2024,12-12-2024,Dubai,Bangkok,Flight,431.06,UPI,Pending,919.3
+C8009,Stacy Weeks,xbailey@dillon.net,B6903,15-12-2024,22-12-2024,Tokyo,Paris,Train,1174.61,UPI,Pending,1401.28
+C2876,David Mcknight,mooreangelica@hernandez-moss.com,B1979,11-12-2024,15-12-2024,Delhi,London,Flight,897.62,UPI,Pending,1241.08
+C6242,Wendy Jenkins,fstewart@hotmail.com,B3336,01-12-2024,03-12-2024,Bangkok,London,Flight,338.13,Cash,Confirmed,389.73
+C8965,Marcus Harrison,maria29@walker.com,B1488,20-12-2024,23-12-2024,Dubai,Goa,Bus,710.13,Cash,Pending,1066.25
+C2432,Cynthia Salazar,andrea60@hotmail.com,B2921,19-12-2024,21-12-2024,Tokyo,Dubai,Flight,1077.19,PayPal,Pending,1505.63
+C1875,Kelly Schwartz,ebrown@boyd.info,B2057,20-12-2024,22-12-2024,Mumbai,Paris,Bus,1159.13,PayPal,Confirmed,1437.86
+C6961,Sheryl Greene,caitlinknight@gmail.com,B7242,16-12-2024,21-12-2024,New York,Bangkok,Train,1454.32,PayPal,Confirmed,1554.59

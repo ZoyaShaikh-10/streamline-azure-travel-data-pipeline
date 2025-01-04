@@ -1,0 +1,85 @@
+Booking ID,Hotel ID,Hotel Name,Check-in Date,Check-out Date,Room Type,Nights,Hotel Cost (INR),Booking Status
+B9740,H1680,Olson PLC,12-12-2024,14-12-2024,Standard,2,98343,Cancelled
+B7146,H9136,Martinez-Lozano,23-12-2024,27-12-2024,Standard,4,75576,Cancelled
+B4628,H2186,Short-Cook,20-12-2024,23-12-2024,Standard,3,75381,Pending
+B8696,H6423,Diaz Group,14-12-2024,16-12-2024,Suite,2,83504,Confirmed
+B1295,H2635,"Kim, Hubbard and Rivas",15-12-2024,17-12-2024,Deluxe,2,89031,Confirmed
+B7896,H5121,"Howard, Taylor and Robinson",17-12-2024,24-12-2024,Deluxe,7,36416,Cancelled
+B4321,H5665,Gill Group,14-12-2024,20-12-2024,Standard,6,15486,Pending
+B1621,H4986,Taylor-Fox,19-12-2024,26-12-2024,Suite,7,83160,Confirmed
+B6316,H5285,Anthony and Sons,10-12-2024,16-12-2024,Deluxe,6,59970,Pending
+B7887,H9505,Wilson-Ortega,19-12-2024,25-12-2024,Suite,6,38418,Cancelled
+B8091,H6793,Brown Group,14-12-2024,21-12-2024,Suite,7,26541,Cancelled
+B1354,H6860,Cruz-Villa,15-12-2024,22-12-2024,Suite,7,63248,Cancelled
+B9544,H3952,Carney-Thomas,03-12-2024,08-12-2024,Deluxe,5,13658,Pending
+B7625,H1942,"Coleman, Moyer and Taylor",26-12-2024,30-12-2024,Standard,4,30520,Pending
+B9160,H3445,"Burgess, Adams and Ramos",11-12-2024,13-12-2024,Suite,2,52702,Confirmed
+B6305,H8509,Rowe and Sons,13-12-2024,17-12-2024,Suite,4,20645,Pending
+B5607,H2374,Dixon-Mendoza,22-12-2024,29-12-2024,Deluxe,7,5452,Confirmed
+B2362,H2788,Nelson-Palmer,15-12-2024,19-12-2024,Suite,4,10569,Confirmed
+B6367,H3176,Flores Group,12-12-2024,14-12-2024,Suite,2,43945,Pending
+B6345,H6153,Castro PLC,17-12-2024,20-12-2024,Deluxe,3,55542,Pending
+B3052,H5189,Arnold-Walker,13-12-2024,17-12-2024,Suite,4,12810,Cancelled
+B7750,H3363,"Spence, Becker and Kelly",13-12-2024,17-12-2024,Suite,4,7504,Cancelled
+B4417,H8879,Hickman-Adams,02-12-2024,05-12-2024,Suite,3,27708,Pending
+B2734,H8272,Guerrero-Martinez,18-12-2024,21-12-2024,Deluxe,3,76469,Cancelled
+B2491,H6385,"Rivera, Zuniga and Norman",10-12-2024,16-12-2024,Deluxe,6,49839,Pending
+B7051,H9665,Robinson-Keith,08-12-2024,13-12-2024,Standard,5,96137,Cancelled
+B3278,H6225,Gray Inc,17-12-2024,20-12-2024,Deluxe,3,36315,Cancelled
+B1979,H6083,Gross Inc,11-12-2024,15-12-2024,Standard,4,87734,Pending
+B7568,H6746,Mitchell-Thomas,03-12-2024,05-12-2024,Standard,2,89329,Cancelled
+B7327,H5916,"Richardson, Hall and Mercado",12-12-2024,17-12-2024,Suite,5,26350,Cancelled
+B5459,H3000,Lang and Sons,14-12-2024,21-12-2024,Deluxe,7,75854,Cancelled
+B2531,H8145,Olsen Group,17-12-2024,21-12-2024,Standard,4,24970,Cancelled
+B7704,H2813,Lee-Miller,16-12-2024,20-12-2024,Standard,4,65852,Cancelled
+B8455,H1311,Morris-Thomas,12-12-2024,18-12-2024,Deluxe,6,91379,Pending
+B1225,H6809,Wallace-Moses,18-12-2024,24-12-2024,Standard,6,46209,Confirmed
+B7109,H1474,Brennan-Frederick,25-12-2024,28-12-2024,Standard,3,14030,Cancelled
+B2170,H4120,Davis PLC,18-12-2024,23-12-2024,Deluxe,5,70569,Confirmed
+B5888,H5863,Reeves Group,25-12-2024,29-12-2024,Standard,4,80973,Pending
+B2057,H4238,"Fields, Cooper and Davenport",20-12-2024,22-12-2024,Suite,2,30741,Cancelled
+B3870,H8307,"Garcia, Donovan and Caldwell",05-12-2024,07-12-2024,Standard,2,30802,Cancelled
+B1339,H7322,"Jones, Gibbs and Myers",19-12-2024,23-12-2024,Suite,4,13325,Pending
+B5786,H4316,Lara LLC,22-12-2024,28-12-2024,Standard,6,88895,Pending
+B2063,H2411,Miller-Adams,16-12-2024,20-12-2024,Suite,4,5819,Confirmed
+B1035,H7402,Gonzalez and Sons,05-12-2024,12-12-2024,Suite,7,60914,Pending
+B9517,H1346,Hughes PLC,08-12-2024,11-12-2024,Standard,3,40121,Cancelled
+B1588,H3243,"Liu, Ochoa and Green",24-12-2024,28-12-2024,Standard,4,20421,Cancelled
+B5315,H2290,Bailey-Salas,16-12-2024,19-12-2024,Deluxe,3,27484,Pending
+B7915,H9738,Watkins PLC,20-12-2024,27-12-2024,Standard,7,10019,Pending
+B2145,H6031,Pena-Harris,02-12-2024,04-12-2024,Suite,2,95877,Cancelled
+B1530,H9407,"Wilson, Kelly and Newton",07-12-2024,10-12-2024,Suite,3,26122,Confirmed
+B8816,H2190,Clark-Schneider,09-12-2024,14-12-2024,Suite,5,15391,Cancelled
+B2212,H6175,"Ramirez, Baker and Booker",24-12-2024,28-12-2024,Deluxe,4,8548,Pending
+B1978,H9379,Rodriguez LLC,27-12-2024,29-12-2024,Standard,2,91014,Cancelled
+B9702,H6625,Carter LLC,16-12-2024,22-12-2024,Deluxe,6,68165,Pending
+B5071,H4275,"Castro, Marsh and Patterson",25-12-2024,28-12-2024,Suite,3,89053,Pending
+B6903,H8971,"Mccarthy, Miles and Smith",15-12-2024,22-12-2024,Deluxe,7,44402,Confirmed
+B1337,H4198,"Bullock, Jones and Leblanc",03-12-2024,08-12-2024,Standard,5,95612,Pending
+B4233,H2683,Pitts LLC,05-12-2024,07-12-2024,Deluxe,2,90267,Confirmed
+B5607,H1563,"Oneal, Garrett and Mckay",22-12-2024,29-12-2024,Standard,7,65723,Confirmed
+B3698,H6101,Stone Group,25-12-2024,01-01-2025,Deluxe,7,99566,Confirmed
+B5272,H5536,"Schwartz, Patel and Robles",14-12-2024,18-12-2024,Suite,4,41776,Pending
+B9841,H2811,Boyer Group,27-12-2024,02-01-2025,Standard,6,77623,Cancelled
+B8221,H2580,Woods-Arnold,04-12-2024,09-12-2024,Suite,5,35492,Confirmed
+B5212,H8360,"Mcdonald, Stevens and Williams",06-12-2024,10-12-2024,Standard,4,80786,Pending
+B5236,H4626,"Jimenez, Davis and Camacho",07-12-2024,11-12-2024,Suite,4,41027,Confirmed
+B6234,H9156,Gonzales-Young,09-12-2024,11-12-2024,Suite,2,93181,Cancelled
+B8646,H8493,"Adams, Robinson and Mccarthy",04-12-2024,10-12-2024,Suite,6,45345,Confirmed
+B7157,H9993,Baker Ltd,20-12-2024,25-12-2024,Standard,5,57082,Confirmed
+B7399,H4484,Martinez and Sons,12-12-2024,16-12-2024,Deluxe,4,34072,Pending
+B7581,H3494,Mitchell PLC,17-12-2024,20-12-2024,Suite,3,56621,Cancelled
+B1064,H6698,"Hill, Cole and Humphrey",12-12-2024,18-12-2024,Standard,6,92829,Pending
+B2921,H7898,"Jones, Small and Barnes",19-12-2024,21-12-2024,Deluxe,2,94914,Confirmed
+B3140,H3035,Brandt and Sons,22-12-2024,29-12-2024,Deluxe,7,66749,Pending
+B3029,H7065,Smith Inc,23-12-2024,25-12-2024,Suite,2,30022,Cancelled
+B4454,H9078,Young-Hensley,03-12-2024,07-12-2024,Standard,4,16837,Cancelled
+B9605,H7256,Reed Ltd,24-12-2024,31-12-2024,Standard,7,34781,Cancelled
+B3350,H1376,Mueller LLC,25-12-2024,29-12-2024,Standard,4,53603,Cancelled
+B9989,H8545,"Lewis, Hobbs and Powell",07-12-2024,10-12-2024,Deluxe,3,7499,Cancelled
+B8636,H9042,"West, Curry and Rogers",22-12-2024,29-12-2024,Deluxe,7,9107,Confirmed
+B7016,H9049,"Bennett, Davis and Petersen",11-12-2024,14-12-2024,Standard,3,47145,Pending
+B6490,H2592,Taylor-Chapman,13-12-2024,19-12-2024,Deluxe,6,73635,Confirmed
+B6689,H5229,"Martinez, Robertson and Herring",03-12-2024,05-12-2024,Standard,2,81358,Cancelled
+B1488,H2953,Crawford-Valdez,20-12-2024,23-12-2024,Standard,3,11298,Cancelled
+B4438,H4423,Terry Inc,06-12-2024,10-12-2024,Suite,4,18968,Cancelled

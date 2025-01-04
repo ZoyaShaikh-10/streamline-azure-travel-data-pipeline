@@ -1,0 +1,61 @@
+Booking ID,Car Rental ID,Pickup Location,Drop-off Location,Rental Start Date,Rental End Date,Car Type,Rental Cost (INR),Payment Method,Rental Status
+B9740,CR6958,Hotel,Downtown,12-12-2024,14-12-2024,SUV,16288,Cash,Cancelled
+B7146,CR8141,Downtown,Airport,23-12-2024,27-12-2024,SUV,27776,Debit Card,Cancelled
+B4628,CR9678,Downtown,Hotel,20-12-2024,23-12-2024,Luxury,23896,Debit Card,Confirmed
+B8696,CR4908,Airport,Airport,14-12-2024,16-12-2024,SUV,13104,UPI,Cancelled
+B1295,CR3571,Hotel,Downtown,15-12-2024,17-12-2024,Sedan,3998,UPI,Confirmed
+B7896,CR3801,Downtown,Hotel,17-12-2024,24-12-2024,Hatchback,21608,UPI,Pending
+B4321,CR6206,Airport,Downtown,14-12-2024,20-12-2024,Luxury,6239,Credit Card,Cancelled
+B1621,CR3570,Hotel,Hotel,19-12-2024,26-12-2024,Luxury,26168,Cash,Confirmed
+B6316,CR5871,Airport,Downtown,10-12-2024,16-12-2024,Luxury,10768,Debit Card,Pending
+B7887,CR6398,Hotel,Downtown,19-12-2024,25-12-2024,Luxury,16304,Credit Card,Pending
+B8091,CR8281,Railway Station,Airport,14-12-2024,21-12-2024,SUV,15604,Debit Card,Confirmed
+B1354,CR6801,Downtown,Hotel,15-12-2024,22-12-2024,Luxury,6780,Cash,Confirmed
+B9544,CR8306,Downtown,Downtown,03-12-2024,08-12-2024,Luxury,6119,UPI,Cancelled
+B7625,CR8488,Hotel,Downtown,26-12-2024,30-12-2024,Luxury,19258,UPI,Cancelled
+B9160,CR8412,Hotel,Airport,11-12-2024,13-12-2024,Luxury,15927,Cash,Confirmed
+B6305,CR9268,Airport,Downtown,13-12-2024,17-12-2024,Luxury,24349,Cash,Cancelled
+B5607,CR2740,Hotel,Downtown,22-12-2024,29-12-2024,Luxury,11647,Cash,Confirmed
+B2362,CR6323,Airport,Downtown,15-12-2024,19-12-2024,Luxury,19460,Cash,Confirmed
+B6367,CR3080,Hotel,Downtown,12-12-2024,14-12-2024,Hatchback,12777,Cash,Confirmed
+B6345,CR8592,Airport,Airport,17-12-2024,20-12-2024,Luxury,24411,Debit Card,Cancelled
+B3052,CR4433,Hotel,Hotel,13-12-2024,17-12-2024,Luxury,13678,Cash,Pending
+B7750,CR9472,Railway Station,Downtown,13-12-2024,17-12-2024,Hatchback,20081,UPI,Pending
+B4417,CR1445,Airport,Hotel,02-12-2024,05-12-2024,Sedan,19356,Debit Card,Cancelled
+B2734,CR2963,Hotel,Airport,18-12-2024,21-12-2024,SUV,11232,Credit Card,Confirmed
+B2491,CR6556,Airport,Airport,10-12-2024,16-12-2024,Sedan,9360,Credit Card,Confirmed
+B7051,CR7245,Airport,Airport,08-12-2024,13-12-2024,Hatchback,29116,Debit Card,Confirmed
+B3278,CR8631,Hotel,Airport,17-12-2024,20-12-2024,SUV,8806,Credit Card,Pending
+B1979,CR5428,Hotel,Hotel,11-12-2024,15-12-2024,SUV,9522,UPI,Cancelled
+B7568,CR9001,Downtown,Airport,03-12-2024,05-12-2024,SUV,2701,Debit Card,Confirmed
+B7327,CR5809,Downtown,Hotel,12-12-2024,17-12-2024,Hatchback,19471,UPI,Cancelled
+B5459,CR5477,Railway Station,Airport,14-12-2024,21-12-2024,Sedan,27278,Debit Card,Cancelled
+B2531,CR6406,Downtown,Airport,17-12-2024,21-12-2024,Luxury,9868,Credit Card,Pending
+B7704,CR3358,Railway Station,Airport,16-12-2024,20-12-2024,SUV,14689,Cash,Pending
+B8455,CR1071,Railway Station,Airport,12-12-2024,18-12-2024,Luxury,10451,Debit Card,Confirmed
+B1225,CR3762,Hotel,Downtown,18-12-2024,24-12-2024,Hatchback,26065,Credit Card,Cancelled
+B7109,CR8916,Airport,Downtown,25-12-2024,28-12-2024,Luxury,23639,UPI,Pending
+B2170,CR6239,Airport,Hotel,18-12-2024,23-12-2024,Hatchback,10731,Credit Card,Confirmed
+B5888,CR1792,Railway Station,Downtown,25-12-2024,29-12-2024,Hatchback,26915,UPI,Pending
+B2057,CR3230,Airport,Downtown,20-12-2024,22-12-2024,Hatchback,9932,Debit Card,Confirmed
+B3870,CR7236,Airport,Airport,05-12-2024,07-12-2024,Sedan,11570,Cash,Pending
+B1339,CR7441,Railway Station,Airport,19-12-2024,23-12-2024,Luxury,8864,UPI,Confirmed
+B5786,CR6937,Downtown,Airport,22-12-2024,28-12-2024,SUV,29594,Cash,Cancelled
+B2063,CR1683,Airport,Downtown,16-12-2024,20-12-2024,Hatchback,29394,Cash,Pending
+B1035,CR6440,Downtown,Downtown,05-12-2024,12-12-2024,Sedan,29426,UPI,Pending
+B9517,CR6993,Railway Station,Downtown,08-12-2024,11-12-2024,Hatchback,3166,UPI,Cancelled
+B1588,CR6201,Airport,Hotel,24-12-2024,28-12-2024,SUV,11385,Credit Card,Confirmed
+B5315,CR1415,Airport,Downtown,16-12-2024,19-12-2024,Sedan,21921,Cash,Confirmed
+B7915,CR9966,Railway Station,Hotel,20-12-2024,27-12-2024,Sedan,18431,Debit Card,Pending
+B2145,CR5065,Downtown,Hotel,02-12-2024,04-12-2024,Luxury,22237,UPI,Pending
+B1530,CR5847,Hotel,Airport,07-12-2024,10-12-2024,Sedan,13583,Debit Card,Cancelled
+B8816,CR1885,Airport,Hotel,09-12-2024,14-12-2024,SUV,11753,Debit Card,Confirmed
+B2212,CR7376,Hotel,Airport,24-12-2024,28-12-2024,Sedan,2084,Cash,Confirmed
+B1978,CR2720,Hotel,Airport,27-12-2024,29-12-2024,Hatchback,7335,Cash,Pending
+B9702,CR4408,Airport,Airport,16-12-2024,22-12-2024,Sedan,22027,UPI,Confirmed
+B5071,CR7020,Airport,Airport,25-12-2024,28-12-2024,Luxury,10661,UPI,Confirmed
+B6903,CR5344,Railway Station,Airport,15-12-2024,22-12-2024,SUV,29043,Debit Card,Confirmed
+B1337,CR4796,Railway Station,Airport,03-12-2024,08-12-2024,SUV,5188,Debit Card,Cancelled
+B4233,CR8652,Airport,Downtown,05-12-2024,07-12-2024,SUV,14194,UPI,Confirmed
+B5607,CR2436,Hotel,Downtown,22-12-2024,29-12-2024,Sedan,11051,Debit Card,Pending
+B3698,CR7007,Airport,Airport,25-12-2024,01-01-2025,Luxury,18870,Debit Card,Cancelled
