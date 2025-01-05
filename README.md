@@ -4,6 +4,8 @@ This project automates the process of cleaning agency data, uploading the cleane
 
 The pipeline ensures that agency data is cleaned and processed regularly, making it easily available for downstream applications such as analytics, reporting, and machine learning.
 
+![plot](./pipeline_image/azure_stream_pipeline_image.png)
+
 ## High-Level Architecture
 **Data Upload to Server:** Files are uploaded by agencies to a central server.
 
@@ -32,6 +34,7 @@ The pipeline ensures that agency data is cleaned and processed regularly, making
 -   Metadata (such as file name, processing date, and status) is stored in Azure Tables to track data processing history.
 
 
+```
 ## File Structure
 ├── agency_data_processor.py  # Cleans and processes agency data
 ├── upload_to_blob.py  # Uploads cleaned data to Azure Blob Storage
@@ -39,3 +42,4 @@ The pipeline ensures that agency data is cleaned and processed regularly, making
 ├── pipeline_runner.py  # Main script to trigger the pipeline
 ├── requirements.txt  # List of required Python libraries
 └── README.md  # This file
+```
