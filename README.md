@@ -20,7 +20,6 @@ The pipeline ensures that agency data is cleaned and processed regularly, making
 1. **Data Collection and Upload**
 -   Agencies upload their data files to a designated folder.
 
-
 2. **Data Cleaning**
 -   The agency_data_processor.py script is executed, which processes the data by removing duplicates, handling missing values, and applying necessary transformations to the data.
 
@@ -43,3 +42,29 @@ The pipeline ensures that agency data is cleaned and processed regularly, making
 ├── requirements.txt  # List of required Python libraries
 └── README.md  # This file
 ```
+## Configuration
+
+The ```pipeline_config.ini``` file should contain the following configurations:
+
+```
+[AZURE]
+storage_account_name = your_storage_account_name
+storage_account_url = your_storage_account_url
+storage_account_key = your_storage_account_key
+
+[GENERAL]
+AGENCY_BASE_FOLDER = path_to_the_folder
+
+```
+
+## Script Execution 
+
+1. Ensure your pipeline_config.ini is correctly configured.
+
+2. Run the pipeline:
+
+``` 
+    python3 pipeline_runner.py 
+```
+
+3. This above script will clean and process the data, upload the cleaned data to Azure Blob Storage, and trigger subsequent data movement and storage operations as defined in the pipeline.
