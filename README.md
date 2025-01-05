@@ -68,3 +68,20 @@ AGENCY_BASE_FOLDER = path_to_the_folder
 ```
 
 3. This above script will clean and process the data, upload the cleaned data to Azure Blob Storage, and trigger subsequent data movement and storage operations as defined in the pipeline.
+
+## ADF Copy Activity Scheduling and Output Verification
+1. **Scheduling Copy Activity in ADF**
+
+![ADF Trigger Schedule](./pipeline_image/azure_trigger.png)
+![ADF Trigger Schedule](./pipeline_image/azure_adf.png)
+
+   - In Azure Data Factory, a Copy Data activity is scheduled to run every Monday at 21:30 PM. This activity copies the cleaned data from Azure Blob Storage to the SQL Database.
+   - The schedule can be configured by creating a trigger with a weekly recurrence on Mondays.
+
+
+2. **Output Verification in the Database**
+
+![SQL Database Data Verification](./pipeline_image/azure_db_output.png)
+
+   - After the scheduled ADF Copy Data activity is triggered, the data is inserted into the SQL Database.
+   - The success of this operation can be verified by querying the SQL Database to ensure the newly processed data is present and correctly formatted.
